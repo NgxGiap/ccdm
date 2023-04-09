@@ -1,0 +1,1 @@
+C:\Users\pc\Desktop\Auto\auto (3)python main.py
